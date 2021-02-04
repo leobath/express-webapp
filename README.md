@@ -1,3 +1,3 @@
 # express-webapp
-# Node JS express site for Azure platform
+# Node JS express webapp for Azure platform
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
